@@ -69,7 +69,6 @@ The pros of this selection are the next:
 The cons are:
 
 - You need free space on the disk to be able to allocate an ethereum node. Currently, May 2021 the size is 439 GB.
-- You can connect this node to your metamask and do operations with it.
 - Some machines with low resources perhaps can't run this kind of node.
 
 ## Option: use remote during syncing or error
